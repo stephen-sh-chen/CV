@@ -1,9 +1,5 @@
 # My research
 
-# - name: Machine Learing
-#   name-cn: 机器学习
-#   details: kNN, Decision tree, etc
-#   details-cn: kNN, 决策树, 等
 - name: WeChat Mini Program
   name-cn: 微信小程序
   details:
@@ -13,3 +9,8 @@
   name-cn: 爬虫
   details: scrapy
   details-cn: scrapy
+
+- name: Machine Learing
+  name-cn: 机器学习
+  details: kNN, Decision tree, etc
+  details-cn: kNN, 决策树, 等
